@@ -31,7 +31,7 @@ token = input(f'{L} Token Bot : ')
 os.system('clear')
 
 import time 
-print("𝑺𝑬𝑵𝑫𝑨𝑳")
+print("Anonymous GX")
 print("𝑾𝒆𝒍𝒄𝒐𝒎𝒆 𝒕𝒐 𝒕𝒐𝒐𝒍 𝒇𝒐𝒓 𝒄𝒓𝒆𝒂𝒕𝒊𝒏𝒈 𝑺𝒂𝒇𝒆𝑼𝑴 𝒂𝒑𝒑")
 time.sleep(5)
 
@@ -42,12 +42,10 @@ def create():
  global failed
  user=str(random.choice('qwertyuioplkjhgfdsazxcvbnm')[0])+str(''.join(random.choice(ch) for i in range(7)))
  
- tlg = f''' سـندآل ج ـبــلك ح ـسـآبــ طـرشـ🙄
+ tlg = f'''
 ⋘─────━━─────⋙
 ˛ U𝗌𝖾𝗋  : {user}
 ˛ 𝖯𝖺𝗌𝗌𝗐𝗈𝗋𝖽 : hhhh
-⋘─────━━─────⋙
-BY : @GA_1i Dm For Reports
    '''
  
  #user='kdvdfejevfsheh'
@@ -91,4 +89,4 @@ while True:
  print(G+'Created : '+str(created))
  print(R+'Failed : '+str(failed))
  print(L+"∞"*60)
- print(C+"@GA_1i")
+ print(C+"t.me/Dev_GX")
